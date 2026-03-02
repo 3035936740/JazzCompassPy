@@ -15,9 +15,12 @@ class ChordConverter:
         self.chord_formulas = {
             # --- Basic/Abbreviations ---
             "5": [0, 7],
+            "major": [0, 4, 7],
             "maj": [0, 4, 7],
             "M": [0, 4, 7],
             "minor": [0, 3, 7],
+            "min": [0, 3, 7],
+            "m": [0, 3, 7],
             "aug": [0, 4, 8],
             "dim": [0, 3, 6],
             "sus2": [0, 2, 7],

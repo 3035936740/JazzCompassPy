@@ -31,12 +31,6 @@
 * **Specific Note Generation**: Automatically translates scale theory into concrete lists of notes, making it easy for musicians to locate the notes directly on their fretboard or keyboard.
 * **Tonal Color Analysis (analyze_improv_feel)**: Automatically calculates a "spiciness level" (from safe to experimental) by comparing the scale notes with the chord notes, and highlights the "tension notes" that create friction.
 
-### 5. Harmonic Transformation & Voicing
-
-* **Negative Harmony**: Mirror any chord or progression across the C-G axis (or any custom axis).
-* **Shell & Drop 2**: Generate professional-grade piano/guitar voicings automatically.
-* **Guide Tone Paths**: Calculate the $3^{rd}$ and $7^{th}$ voice-leading lines for smooth transitions.
-
 ---
 
 ## Quick Start
