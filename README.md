@@ -89,6 +89,7 @@ C   C#  D   D#  E   F   F#  G   G#  A   A#  B
 | `ChordConverter` | String regex parsing & interval calculation. |
 | `CSTAnalyzer` | Scale definitions, brightness, and avoid-note logic. |
 | `LCCAnalyzer` | Tonal gravity and Parent Lydian organization. |
+| `BluesToolkit` | Improvisation guide: Blues/Pentatonic suggestions & Tension (Spiciness) analysis. |
 | `JazzBrain` | The "API Layer" combining all modules for end-user reports. |
 
 ---
