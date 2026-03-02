@@ -97,7 +97,3 @@ C   C#  D   D#  E   F   F#  G   G#  A   A#  B
 ## License
 
 Distributed under the **MIT License**. Feel free to use this in your DAWs, educational apps, or personal practice tools.
-
----
-
-**Would you like me to add a section on how to implement the "Modulation Detection" logic for longer songs?**
