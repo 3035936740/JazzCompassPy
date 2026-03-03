@@ -31,6 +31,24 @@
 * **Specific Note Generation**: Automatically translates scale theory into concrete lists of notes, making it easy for musicians to locate the notes directly on their fretboard or keyboard.
 * **Tonal Color Analysis (analyze_improv_feel)**: Automatically calculates a "spiciness level" (from safe to experimental) by comparing the scale notes with the chord notes, and highlights the "tension notes" that create friction.
 
+### 5. Geometric Harmony & Linkage Engine (`NeoRiemannianToolkit`)
+
+This module moves beyond traditional functional harmony (like $ii-V-I$) to explore **Voice Leading** and **Tonnetz** geometry. It is designed to find "cinematic" and "smooth" transitions that are mathematically related but tonally distant.
+
+* **Core Transformations (P, L, R)**:
+* **P (Parallel)**: Connects major and minor chords with the same root (e.g., $C \leftrightarrow Cm$).
+* **L (Leading-tone exchange)**: Connects chords sharing a major third (e.g., $C \leftrightarrow Em$).
+* **R (Relative)**: Connects relative major/minor pairs (e.g., $C \leftrightarrow Am$).
+
+
+* **Advanced Geometric Mapping**:
+* **Tonnetz Navigation**: Includes **S (Slide)** transformations (e.g., $C \leftrightarrow C\#m$) and **N (Near)** relations for sophisticated modulations.
+* **Symmetrical Hubs**: Utilizes **Augmented** and **Diminished** pivots to transition between distant keys instantaneously.
+
+
+* **Octatonic Tower**:
+* A specialized logic for 4-note chords (e.g., $m7b5$, $dim7$). It leverages the symmetry of the **Octatonic Scale** to find "geometric neighbors" that maintain a consistent tension profile.
+
 ---
 
 ## Quick Start
