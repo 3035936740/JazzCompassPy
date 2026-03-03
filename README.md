@@ -42,7 +42,7 @@ This module moves beyond traditional functional harmony (like $ii-V-I$) to explo
 
 
 * **Advanced Geometric Mapping**:
-* **Tonnetz Navigation**: Includes **S (Slide)** transformations (e.g., $C \leftrightarrow C\#m$) and **N (Near)** relations for sophisticated modulations.
+* **Tonnetz Navigation**: Includes **S (Slide)** transformations and **N (Near)** relations for sophisticated modulations.
 * **Symmetrical Hubs**: Utilizes **Augmented** and **Diminished** pivots to transition between distant keys instantaneously.
 
 
